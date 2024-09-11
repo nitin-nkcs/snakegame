@@ -35,7 +35,7 @@ To run this game, you need to have Python and Pygame installed on your system.
 ## Usage
 To start the game, run the following command:
    ```bash
-   python snake_game.py
+   python snake-game.py
    ```
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
